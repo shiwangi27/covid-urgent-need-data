@@ -11,8 +11,21 @@ The data consists of the following:
 Currently, the tweet status data is pulled and filtered for May 1 for Mumbai and Delhi. Other cities to follow. The location is actually user's location and not the location of patients or resources (it can be all over the country). 
 
 
-Hope this helps track ad-hoc resource availability for people in need. 
+## Covid India Cases and Vaccination Resources
 
+| Data Source |	Link |	Additonal Link |
+| :----------- | :------------: | ---------------: |
+|State Wise Vaccination Data	| https://www.mygov.in/covid-19/	| https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport1stMay2021.pdf |
+|JHU State Wise	        | https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data	| |
+|GrainMart District Wise Cases | https://www.grainmart.in/news/covid-19-coronavirus-india-state-and-district-wise-tally/ | |	
+|MOHFW State Wise Cases	| https://www.mohfw.gov.in/	| |
+|District Wise Cases API	| https://api.covid19india.org/documentation/csv/	| https://coronaclusters.in/ |
+|State Wise Covid Facilities	| https://www.mohfw.gov.in/pdf/StatewiseCovidHospitalslink19062020.pdf	| |
+
+
+More Data Resource Links State wise: 
+
+- [Google Drive State Reports and Dashboards Links](https://docs.google.com/spreadsheets/d/1IOv61NoJ9jOfBXxarxK2vHU3BqIYklY-qFWfXf_CVLQ/edit?usp=sharing)
 
 
 ## Data Fields 
